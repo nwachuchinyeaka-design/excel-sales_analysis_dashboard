@@ -45,9 +45,17 @@ the analysis in a clear and accessible format.
 The analysis explored sales revenue across countries,
 regions, product categories, and order priorities.
 
-- Finding 1: [Insert a verified finding from your analysis.]
-- Finding 2: [Insert a verified finding from your analysis.]
-- Finding 3: [Insert a verified finding from your analysis.]
+**###1. Regional Sales Volume**
+- North America recorded the highest sales volume, with 87,441 units sold.
+- Asia recorded the lowest sales volume, with 71,853 units sold.
+
+### 2. Revenue by Order Priority
+- High-priority orders generated the highest revenue, totaling 643,239,850.00.
+- Critical-priority orders generated the lowest revenue, totaling 579,660,131.20.
+- The revenue difference between High and Critical priority orders was 63,579,718.80.
+
+### 3. Unit Cost by Country
+- Australia recorded the highest total unit cost, with a Sum of Unit Cost of 300,246.07.
 
 ## 6. Dashboard Preview
 
