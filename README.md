@@ -57,16 +57,14 @@ regions, product categories, and order priorities.
 ### 3. Unit Cost by Country
 - Australia recorded the highest total unit cost, with a Sum of Unit Cost of 300,246.07.
 
-## 6. Dashboard Preview
 
-Add a screenshot of your completed dashboard here.
 
-## 7. Project Files
+## 6. Project Files
 
 - Excel workbook: Contains the sales analysis and dashboard.
 - Dashboard screenshot: Provides a visual preview of the project.
 
-## 8. Conclusion
+## 7. Conclusion
 
 This project provided practical experience in using Excel
 to prepare data, analyze sales performance, and communicate
@@ -75,6 +73,6 @@ findings through data visualization.
 It demonstrates how spreadsheet tools can help transform
 raw data into useful business insights.
 
-## 9. Author
+## 8. Author
 
 Aspiring Data Analyst | Excel | Power BI | SQL
